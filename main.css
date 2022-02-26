@@ -1,0 +1,23 @@
+
+body{
+    background: linear-gradient(to right top,rgb(41, 128, 226),rgb(22, 252, 79));
+    color: aliceblue;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.glass{
+    
+    min-height: 80vh;
+    background: linear-gradient(to right top,rgba(225,255,255,0.3),rgba(255,255,255,0.1)); 
+    border-radius: 25px;
+
+}
